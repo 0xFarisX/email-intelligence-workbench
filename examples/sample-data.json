@@ -1,0 +1,9 @@
+{
+  "profile": "fictional-client-104",
+  "identity_confidence": "strong",
+  "evidence": ["customer_brief", "two_way_email", "completed_project"],
+  "research_status": "complete",
+  "campaign_state": "approved_for_draft",
+  "delivery": "gmail_draft_only"
+}
+
